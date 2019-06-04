@@ -1,0 +1,9 @@
+body {
+    width: auto;
+}
+img{
+    position: bottom;
+    width: 50%;
+    height: 50%;
+    float: left;
+}
